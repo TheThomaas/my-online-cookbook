@@ -1,6 +1,6 @@
 ![My Online Cookbook logo](https://raw.githubusercontent.com/maeligg/my-online-cookbook/main/github-readme.svg)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/ee5e6a98-305f-425f-a098-2e302095d604/deploy-status)](https://app.netlify.com/sites/quiet-mooncake-461df6/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ee5e6a98-305f-425f-a098-2e302095d604/deploy-status)](https://app.netlify.com/sites/recipes-thethomaas/deploys)
 
 # My Online Cookbook
 
