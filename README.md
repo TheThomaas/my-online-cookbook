@@ -2,6 +2,8 @@
 
 # My Online Cookbook
 
+This repository is based on [Maël Brunet's template](https://github.com/maeligg/my-online-cookbook)
+
 My Online Cookbook is a starter kit to create your own website of recipes, using [Eleventy](https://11ty.io) and [Netlify CMS](https://www.netlifycms.org/). It is meant to be both highly accessible (including to non-developers), as well as fully customisable should you want to use it as a starting off point.
 
 Presentation & set-up instructions : https://myonlinecookbook.xyz/
