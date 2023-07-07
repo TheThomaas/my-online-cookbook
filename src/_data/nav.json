@@ -1,15 +1,15 @@
 {
     "items": [
         {
-            "text": "Home",
+            "text": "Accueil",
             "url": "/"
         },
         {
-            "text": "All recipes",
+            "text": "Recettes",
             "url": "/recipes/"
         },
         {
-            "text": "About",
+            "text": "À propos",
             "url": "/about/"
         }
     ]

@@ -1,10 +1,10 @@
 ---
-title: Coconut lentil soup
+title: Soupe de lentille à la noix de coco
 image: /img/recipes/coconut-lentil-soup.jpg
 tags:
-    - Soup 🥣
-    - Vegetarian 🌿
-    - Vegan 🌱
+  - Soupe 🥣
+  - Végétarien 🌿
+  - Vegan 🌱
 sourceLabel: Bon Appétit
 sourceURL: https://www.bonappetit.com/recipe/vegan-coconut-lentil-soup
 servings: 4

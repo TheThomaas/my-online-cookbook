@@ -1,12 +1,12 @@
 ---
-title: Simple brownies
+title: Brownies simples
 image: https://ichef.bbci.co.uk/food/ic/food_16x9_1600/recipes/richchocolatebrownie_1933_16x9.jpg
 tags:
-  - Sweet 🍬
-  - Cake 🍰
-  - Vegetarian 🌿
-  - Sharable
-  - Favourite ⭐
+  - Douceurs 🍬
+  - Gateeau 🍰
+  - Végétarien 🌿
+  - Partageable
+  - Préférée ⭐
 time: 45 min
 servings: 4
 sourceLabel: BBC good food

@@ -1,8 +1,9 @@
 ---
 layout: layouts/base.njk
-title: About
+title: A propos
 bodyClass: u-free-text
 ---
+## Todo
 ![A picture of a black pug wearing a pilot jacket](/img/about.jpg)
 \
 \
