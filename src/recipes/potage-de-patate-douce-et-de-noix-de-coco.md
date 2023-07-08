@@ -1,9 +1,10 @@
 ---
-title: " Potage de patate douce et de noix de coco "
+title: Potage de patate douce et de noix de coco
 image: /img/recipes/potage-de-patate-douce-et-de-noix-de-coco.jpg
 tags:
   - Soupe 🥣
-  - Vegan 🌱
+  - Préférée ⭐
+  # - Vegan 🌱
 time: 20 min
 servings: 2
 sourceLabel: Fooby
