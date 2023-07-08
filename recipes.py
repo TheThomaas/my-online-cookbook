@@ -26,7 +26,7 @@ for i, v in enumerate(ingredients_list):
 instructions_list = recipe_json["instructions_list"]
 instructions = ""
 for i, v in enumerate(instructions_list):
-    instructions += f"{i + 1}. {v}\n"
+    instructions += f"{i + 1}. {v}\n\n"
 
 def slugify(value, allow_unicode=False):
     value = str(value)
@@ -66,4 +66,4 @@ f = open(f"src/recipes/{slugify(title)}.md", "w")
 f.write(recipesConcat())
 f.close()
 
-download_jpg(image_url, r"C:\Users\Thomas\Downloads\recipes-scrapers\src\img\recipes/", slugify(title) )
+download_jpg(image_url, r".\src\img\recipes/", slugify(title) )
