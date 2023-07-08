@@ -1,6 +1,6 @@
 ---
 title: " Potage de patate douce et de noix de coco "
-image: https://mealie.thethomaas.net/api/media/recipes/potage-de-patate-douce-et-de-noix-de-coco/images/original.webp?
+image: /img/recipes/potage-de-patate-douce-et-de-noix-de-coco.webp
 tags:
   - Soupe 🥣
   - Vegan 🌱
