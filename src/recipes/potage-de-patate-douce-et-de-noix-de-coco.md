@@ -13,7 +13,7 @@ ingredients:
   - 1 grande patate douce
   - 2dl bouillon de légume
   - 2.5dl lait de coco
-  - sel, poivre, selon le goût
+  - sel et poivre selon le goût
   - 50g cacahuètes salées, hachées grossièrement
   - 0.5 bouquet de coriandre
 ---
