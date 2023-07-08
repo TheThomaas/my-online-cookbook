@@ -15,7 +15,7 @@ ingredients:
   - 2,5dl lait de coco
   - sel, poivre, selon le goût
   - 50g cacahuètes salées, hachées grossièrement
-  - ½ bouquet de coriandre
+  - 0,5 bouquet de coriandre
 ---
 1. Faire chauffer l’huile dans une casserole et ajouter les dés de patate douce. Faire revenir pendant env. 3 min.
 
