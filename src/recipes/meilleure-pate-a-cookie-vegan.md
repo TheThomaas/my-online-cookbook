@@ -1,23 +1,23 @@
 ---
 title: Pâte à Cookie Comestible
 image: /img/recipes/meilleure-pate-a-cookie-vegan.webp
-tags: 
-   - Sucré 🍨
-   - Préférée ⭐
-   # - Vegan 🌱
+tags:
+  - Sucré 🍨
+  - Préférée ⭐
+  - Chocolat 🍫
 time: 10 min
 servings: 8
 sourceLabel: Nora Cooks
 sourceURL: https://www.noracooks.com/vegan-cookie-dough/
-ingredients: 
-   - 1 tasse de farine tout usage
-   - 0.5 tasse de beurre vegan ramolli
-   - 0.5 tasse de sucre brun, tassé
-   - 1/8 de tasse de sucre granulé
-   - 0.5 cuillère à café d'extrait de vanille pure
-   - 0.25 de cuillère à café de sel
-   - 1-2cs de lait végétal, si nécessaire
-   - 0.5 tasse de mini pépites de chocolat vegan (ou des vermicelles colorés)
+ingredients:
+  - 1 tasse de farine tout usage
+  - 0.5 tasse de beurre vegan ramolli
+  - 0.5 tasse de sucre brun, tassé
+  - 1/8 de tasse de sucre granulé
+  - 0.5 cuillère à café d'extrait de vanille pure
+  - 0.25 de cuillère à café de sel
+  - 1-2cs de lait végétal, si nécessaire
+  - 0.5 tasse de mini pépites de chocolat vegan (ou des vermicelles colorés)
 ---
 1. Chauffez la farine pour qu'elle soit comestible. Placez la farine dans une assiette ou un bol adapté au micro-ondes et faites chauffer à puissance maximale pendant environ 1 minute, jusqu'à ce que la température interne atteigne 74 degrés Celsius. J'utilise un thermomètre alimentaire pour vérifier. Remuez bien si des grumeaux se forment, puis mettez de côté pour refroidir.
 
