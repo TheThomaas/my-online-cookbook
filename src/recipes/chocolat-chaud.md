@@ -18,6 +18,5 @@ ingredients:
 
 3. Servir chaud ou légèrement tiédi.
 
-### Notes
-#### Conservation
+### Conservation
 Ce chocolat se conserve des heures à température ambiante, deux jours au frais (je vous conseille de le transférer dans une bouteilles c’est plus pratique ensuite) et vous pouvez aussi le congeler une bonne semaine. Faites-le décongeler une nuit au frais. Et réchauffez-le avant de servir.
