@@ -1,7 +1,9 @@
 ---
 title: Chocolat chaud
 image: https://www.undejeunerdesoleil.com/wp-content/uploads/2020/10/Chocolat_chaud_sans_lait_recette-500x500.jpg
-tags: []
+tags:
+  - Sucré 🍨
+  - Boisson 🥤
 time: 5 min
 servings: 6
 sourceLabel: Un déjeuner de soleil
