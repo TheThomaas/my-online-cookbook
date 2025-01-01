@@ -4,6 +4,7 @@ image: https://www.undejeunerdesoleil.com/wp-content/uploads/2020/10/Chocolat_ch
 tags:
   - Sucré 🍨
   - Boisson 🥤
+  - Chocolat 🍫
 time: 5 min
 servings: 6
 sourceLabel: Un déjeuner de soleil
