@@ -4,6 +4,7 @@ image: https://empreintesucree.fr/wp-content/uploads/2017/08/1-sorbet-chocolat-r
 tags:
   - Sucré 🍨
   - Glace 🍧
+  - Chocolat 🍫
 time: 10 minutes
 sourceLabel: Empreinte Sucrée
 sourceURL: https://empreintesucree.fr/sorbet-chocolat/
